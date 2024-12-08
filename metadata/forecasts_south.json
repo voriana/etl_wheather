@@ -1,0 +1,11 @@
+{"city":"Buenos Aires","date":1733356800000,"min_temp":68.0,"max_temp":86.0,"unit":"F","day_icon":2,"day_phrase":"Mostly sunny","night_icon":40,"night_phrase":"Mostly cloudy w\/ showers"}
+{"city":"Brasilia","date":1733356800000,"min_temp":75.0,"max_temp":90.0,"unit":"F","day_icon":14,"day_phrase":"Partly sunny w\/ showers","night_icon":35,"night_phrase":"Partly cloudy"}
+{"city":"Santiago","date":1733356800000,"min_temp":47.0,"max_temp":74.0,"unit":"F","day_icon":3,"day_phrase":"Partly sunny","night_icon":33,"night_phrase":"Clear"}
+{"city":"Bogotá","date":1733356800000,"min_temp":50.0,"max_temp":69.0,"unit":"F","day_icon":13,"day_phrase":"Mostly cloudy w\/ showers","night_icon":38,"night_phrase":"Mostly cloudy"}
+{"city":"Quito","date":1733356800000,"min_temp":50.0,"max_temp":66.0,"unit":"F","day_icon":18,"day_phrase":"Rain","night_icon":12,"night_phrase":"Showers"}
+{"city":"Georgetown","date":1733356800000,"min_temp":74.0,"max_temp":86.0,"unit":"F","day_icon":13,"day_phrase":"Mostly cloudy w\/ showers","night_icon":36,"night_phrase":"Intermittent clouds"}
+{"city":"Asuncion","date":1733356800000,"min_temp":77.0,"max_temp":90.0,"unit":"F","day_icon":6,"day_phrase":"Mostly cloudy","night_icon":35,"night_phrase":"Partly cloudy"}
+{"city":"Lima","date":1733356800000,"min_temp":64.0,"max_temp":70.0,"unit":"F","day_icon":8,"day_phrase":"Dreary","night_icon":7,"night_phrase":"Cloudy"}
+{"city":"Paramaribo","date":1733356800000,"min_temp":72.0,"max_temp":90.0,"unit":"F","day_icon":3,"day_phrase":"Partly sunny","night_icon":34,"night_phrase":"Mostly clear"}
+{"city":"Montevideo","date":1733356800000,"min_temp":65.0,"max_temp":88.0,"unit":"F","day_icon":1,"day_phrase":"Sunny","night_icon":12,"night_phrase":"Showers"}
+{"city":"Caracas","date":1733356800000,"min_temp":64.0,"max_temp":85.0,"unit":"F","day_icon":6,"day_phrase":"Mostly cloudy","night_icon":36,"night_phrase":"Intermittent clouds"}
